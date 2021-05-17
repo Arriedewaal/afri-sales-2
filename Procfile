@@ -1,0 +1,1 @@
+web: gunicorn django_afrisales_project.wsgi
